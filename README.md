@@ -1,3 +1,5 @@
+[![CI with GitHub Actions using Ant and JUnit | © 2022 by thien-dv](https://github.com/thiendvse0252/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/thiendvse0252/math-util-ant/actions/workflows/ci-with-ant.yml)
+
 # Welcome to Math Utility Repository
 
 ### You will find in this repo the following stuff:
@@ -16,7 +18,7 @@ util class - Math
 
 ### Connect me via thien25078@gmail.com
 
-#### Copyright &#169; 2022 thiendv
+#### Copyright &#169; 2022 thien-dv
 
 
 
