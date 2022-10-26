@@ -17,9 +17,12 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-//        tryTDDFirst();
-        testFactorialGivenWrongArgumentThrowsException();
+
+        System.out.println("This message comes from the main() method");
+        System.out.println("This jar file is build based on Ant in co-operating with JUnit");
+        System.out.println("More over, this message comes from a US-Build's jar file");
+        tryTDDFirst();
+//        testFactorialGivenWrongArgumentThrowsException();
 
     }
 
